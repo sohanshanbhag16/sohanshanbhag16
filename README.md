@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohan</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+studying+in+grade+10;" /></a>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+currently+studying+in+grade+10;" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SohanShanbhag&label=Profile%20views&color=0e75b6&style=flat" alt="SohanShanbhag" /> </p>
 
 <!--
 **sohanshanbhag16/sohanshanbhag16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
