@@ -75,8 +75,7 @@
                         src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
             <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
                         src="https://i.imgur.com/UfBWFbP.png" /></a></td>
-	<td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://i.imgur.com/DZgetVv.png" /></a>
+	
         </tr>
     </tbody>
 </table>
