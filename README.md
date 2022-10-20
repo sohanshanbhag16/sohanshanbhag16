@@ -19,7 +19,9 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC8hQ1t-La-d8FFAjO5wusQQ?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
+<h3 align="center" > width="30" height="30" style="margin-right: 10px;">Languages and Tools</h3>
 <hr>
+
 <table>
     <tbody>
         <tr>
