@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanshanbhag16&label=Profile%20views&color=0e75b6&style=flat" alt="SohanShanbhag" /> </p>
 
+- 🔭 I’m currently working on computer vision with python
+
 <!--
 **sohanshanbhag16/sohanshanbhag16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
