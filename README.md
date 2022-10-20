@@ -20,17 +20,23 @@
       </div>
       <hr>
 <h3 align="center">Languages and Tools</h3>
+## :wrench: Technologies
 
-### Language :
-
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![HTML5](https://img.icons8.com/color/30/html-5.png)!
+[CSS3](https://img.icons8.com/color/30/css3.png)!
+[JavaScript](https://img.icons8.com/color/30/javascript.png)!
+[NodeJS](https://img.icons8.com/color/30/nodejs.png)!
+[WordPress](https://img.icons8.com/color/30/wordpress.png)!
+[NPM](https://img.icons8.com/color/30/npm.png)!
+[Github](https://img.icons8.com/material-outlined/30/github.png)!
+[Git](https://img.icons8.com/color/30/git.png)!
+[VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)!
+[ReactJS](https://img.icons8.com/color/30/react-native.png)!
+[AngularJS](https://img.icons8.com/color/30/angularjs.png)!
+[Windows](https://img.icons8.com/color/30/windows-10.png)!
+[Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)!
+[Linux](https://img.icons8.com/color/30/linux.png)!
+[Console](https://img.icons8.com/color/30/console.png)
 <!--
 **sohanshanbhag16/sohanshanbhag16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
