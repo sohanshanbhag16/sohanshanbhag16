@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🔨 Currently building a **Spend + Asset Tracker** web app  
+- 🔨 Currently building a **Website for Housing Community**  
 - 🔥 Tech I’m loving right now: `Firebase`, `Chart.js`, `Tailwind`, `JS modules`, `Dark Mode Toggle`  
 - 🌱 Always optimizing for **performance**, **responsiveness**, and **UI polish**  
 - 🧰 Rewriting messy code so it’s 🔥 reusable and scalable  
