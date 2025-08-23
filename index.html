@@ -1,9 +1,128 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    
-  </head>
-  <body style="background-color: blue">
-    s
-  </body>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Your Name - GitHub Profile</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    color: #fff;
+    margin: 0; padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  main {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 2.5rem;
+    border-radius: 15px;
+    text-align: center;
+    max-width: 600px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+  }
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.25rem;
+    animation: glow 2s infinite alternate ease-in-out;
+  }
+  @keyframes glow {
+    from { text-shadow: 0 0 5px #FFF, 0 0 10px #7d5fff, 0 0 20px #7d5fff, 0 0 40px #7d5fff; }
+    to { text-shadow: 0 0 10px #FFF, 0 0 20px #abb7ff, 0 0 30px #abb7ff, 0 0 50px #abb7ff; }
+  }
+  p.bio {
+    font-size: 1.2rem;
+    color: #ddd;
+    margin-top: 0;
+  }
+  section.skills {
+    margin-top: 2rem;
+  }
+  h2 {
+    border-bottom: 2px solid #a777e3;
+    padding-bottom: 0.25rem;
+    margin-bottom: 1rem;
+  }
+  ul.skills-list {
+    list-style: none;
+    padding: 0;
+  }
+  ul.skills-list li {
+    display: inline-block;
+    background: #7d5fff;
+    margin: 0.25rem;
+    padding: 0.6rem 1rem;
+    border-radius: 12px;
+    font-weight: 600;
+    box-shadow: 0 3px 10px rgba(125, 95, 255, 0.5);
+    transition: background 0.3s ease;
+  }
+  ul.skills-list li:hover {
+    background: #abb7ff;
+    cursor: default;
+  }
+  section.projects {
+    margin-top: 2rem;
+  }
+  a.project-link {
+    display: inline-block;
+    margin: 0.5rem 1rem;
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.3s ease;
+    font-weight: 600;
+  }
+  a.project-link:hover {
+    border-color: #abb7ff;
+  }
+  footer {
+    margin-top: 3rem;
+    font-size: 0.9rem;
+    color: #bbb;
+  }
+  footer a {
+    color: #7d5fff;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  footer a:hover {
+    color: #abb7ff;
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>Hello, I'm Your Name</h1>
+  <p class="bio">A passionate Software Developer specializing in Python, Machine Learning, and Web Development
+    <section class="skills">
+    <h2>Skills & Technologies</h2>
+    <ul class="skills-list">
+      <li>Python</li>
+      <li>Machine Learning</li>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>Flask</li>
+      <li>SQL</li>
+      <li>Git & GitHub</li>
+    </ul>
+  </section>
+
+  <section class="projects">
+    <h2>Featured Projects</h2>
+    <a href="https://github.com/yourusername/project1" class="project-link" target="_blank" rel="noopener">Project One</a>
+    <a href="https://github.com/yourusername/project2" class="project-link" target="_blank" rel="noopener">Project Two</a>
+    <a href="https://github.com/yourusername/project3" class="project-link" target="_blank" rel="noopener">Project Three</a>
+  </section>
+
+  <footer>
+    <p>Connect with me:</p>
+    <a href="mailto:your.email@example.com">Email</a> |
+    <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener">LinkedIn</a> |
+    <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener">Twitter</a>
+  </footer>
+</main>
+</body>
 </html>
